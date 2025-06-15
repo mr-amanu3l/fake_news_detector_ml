@@ -1,0 +1,10 @@
+# Ignore specific files
+fake_news.csv
+Fake.csv
+True.csv
+
+# Ignore all CSV files
+*.csv
+
+# Ignore a folder
+data/
