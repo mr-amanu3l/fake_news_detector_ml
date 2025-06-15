@@ -1,4 +1,5 @@
 📰 Fake News Detector using Logistic Regression
+
 This project is a machine learning-based fake news detection system that classifies news articles as real or fake using a Logistic Regression model. It leverages natural language processing (NLP) techniques to clean and vectorize text data before classification.
 
 📌 Features
